@@ -5,7 +5,7 @@ Export-Package: \
 
 Import-Package: \
  !io.netty.*, \
+ !io.projectreactor.*, \
  !com.oracle.svm.*, \
  javax.security.cert, \
  *
-
